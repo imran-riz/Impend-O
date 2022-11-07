@@ -17,9 +17,6 @@ defined('BASEPATH') OR exit('No direct script access allowed'); ?>
             transform: scale(0.95);
         }
         .card:hover {
-            background: #1a1a1a;
-            border-color: white;
-            color: white;
             transform: scale(0.97);
         }
     </style>
